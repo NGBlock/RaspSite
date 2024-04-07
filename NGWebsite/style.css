@@ -1,0 +1,43 @@
+
+    h1{
+        font-family: Courier;
+        font-size: 50px;
+        text-align: center;
+      
+        color:rgb(0, 0, 0);
+    }
+
+    h2{
+        font-family:'Arial Narrow Bold', sans-serif;
+        text-align: center;
+        font-size: 23px;
+        color: rgba(219, 88, 48, 0.767);
+        text-decoration:underline;
+    }
+
+    a{
+        font-size: large;
+        text-align: center;
+        
+    }
+
+    h3{
+        font-size: 35px;
+        text-align:center;
+    }
+
+    body{
+        background-color: rgb(255, 255, 255);
+    }
+
+    p{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .header {
+        padding: 30px;
+        text-align: center;
+        background:rgb(219, 219, 219);
+        color: white;
+        font-size: 30px;
+      }
